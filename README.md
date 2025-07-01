@@ -5,7 +5,7 @@ This is only demo concept without tests, and good frontend.
 This code may not work. It can be treated as an introduction for further discussion.
 
 video with presentation: [https://www.loom.com/share/1e14f34d7c0b4d3392a8152f1eaac107](https://www.loom.com/share/1e14f34d7c0b4d3392a8152f1eaac107)
-
+miro diagram roboczy/podstawowy koncept: [https://miro.com/app/board/uXjVIi3DffE=/](https://miro.com/app/board/uXjVIi3DffE=/)
 ## Features
 - Agent management with availability and queue support
 - Queue management
