@@ -53,14 +53,6 @@ cc:
 
 init: vendor
 
-test:
-	$(EXEC_PHP) php bin/phpunit
-
-lint:
-	$(EXEC_PHP) php bin/console lint:container
-	$(EXEC_PHP) php bin/console lint:yaml config
-	$(EXEC_PHP) php-cs-fixer fix --dry-run --diff
-
 # Catch-all rule to handle arguments for commands
 %:
 	@:
